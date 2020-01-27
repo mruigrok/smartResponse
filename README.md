@@ -20,6 +20,3 @@ API: We used the cityIQ api to get live audio and images of Hamilton.
 * **Pavneet Gill** 
 * **Reza Shahriari**
 * **Matthew Ruigrok**
-
-
-# smartResponse
